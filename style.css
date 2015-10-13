@@ -1,0 +1,32 @@
+body {
+  font-family: 'Raleway';
+  font-size: 125%;
+  color: yellow;
+  margin: 10px 50px 10px 50px;
+  text-align: center;
+  background-image: url("http://cdn.coresites.factorymedia.com/mpora_new/wp-content/uploads/2014/08/as_surf_bede_2048.jpg");
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat';
+  font-size: 250%;
+}
+
+.left {
+  float: left;
+  width: 300px;
+  padding: 1em;
+}
+
+.right {
+  float: right;
+  width: 300px;
+  padding: 1em;
+}
+
+.centerleft {
+  float: right;
+  width: 600px;
+  padding: 1em;
+}
+
